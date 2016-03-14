@@ -34,7 +34,7 @@
                     "type": "zip"
                 },
                 "source": {
-                    "url": "http://smarty-php.googlecode.com/svn/",
+                    "url": "https://smarty-php.googlecode.com/svn/",
                     "type": "svn",
                     "reference": "tags/v3.1.18/distribution/"
                 }
